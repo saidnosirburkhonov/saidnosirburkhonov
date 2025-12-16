@@ -2,3 +2,8 @@
 I am interested in programming and have experience with Python and C#.
 <br />
 I am currently learning .NET software development and enjoy exploring new areas of knowledge.
+<br />
+
+-📍 &nbsp; Current location Tashkent, Uzbekistan.
+-📝 &nbsp; I am open to new knowledge and feedback.
+-📩 &nbsp; How to reach me: [SaidnosirBurkhonov](https://t.me/Burkhonov_57)
