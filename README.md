@@ -5,5 +5,7 @@ I am currently learning .NET software development and enjoy exploring new areas 
 <br />
 
 -📍 &nbsp; Current location Tashkent, Uzbekistan.
+<br />
 -📝 &nbsp; I am open to new knowledge and feedback.
+<br />
 -📩 &nbsp; How to reach me: [SaidnosirBurkhonov](https://t.me/Burkhonov_57)
